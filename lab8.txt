@@ -1,0 +1,6 @@
+# This is 8th lab script
+#!/bin/bash
+if [ -u developer ] ; then
+chmod 777 /home/developer
+fi
+
